@@ -2,6 +2,7 @@
   "name": "@skull/inertia",
   "version": "1.0.0",
   "description": "Inertia support for express js",
+  "repository": "https://github.com/mbilisphe13/Skull",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
